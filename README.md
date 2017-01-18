@@ -1,2 +1,2 @@
-# Forest-Environmental-Informatics-Datasets
-Forest-Environmental Informatics Datasets
+# Environmental-Informatics-Datasets
+Environmental Informatics Datasets
